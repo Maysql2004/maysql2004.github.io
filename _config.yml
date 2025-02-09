@@ -21,6 +21,7 @@ author: May Bandrés
 
 navbar-links:
   About Me: "aboutme"
+  Prueba: "https://iesbezmiliana.es/"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
